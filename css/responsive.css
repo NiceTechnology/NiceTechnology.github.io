@@ -1,0 +1,834 @@
+/* RESPONSIVE */
+@media only screen and (min-width: 1367px) and (max-width: 1440px){
+/* LAPTOP L */
+
+	.logo{
+		width: 135px;
+		height: 135px;
+	}
+
+	.logo2{
+		display: none;
+	}
+
+	.menu ul a:not(.logotext){
+		font-size: 22px;
+	}
+
+	.logotext{
+		margin-top: 7px;
+		font-size: 32px;
+	}
+
+	.mhome{
+		margin-left: 500px;
+	}
+
+	.garis1{
+		width: 100px;
+	}
+
+	.sercon1{
+		margin-right: 80px;
+		width: 350px;
+		height: 450px;
+	}
+
+	.sercon2{
+		margin-right: 80px;
+		width: 350px;
+		height: 450px;
+	}
+
+	.sercon3{
+		width: 350px;
+		height: 450px;
+	}
+
+	.sertext1{
+		font-size: 32px;
+	}
+
+	.sertext2{
+		font-size: 22px;
+	}
+
+	.serimg{
+		width: 350px;
+		height: 350px;
+	}
+
+	.garis2{
+		width: 120px;
+	}
+
+	.portcon1{
+		margin-right: 80px;
+		width: 350px;
+		height: 450px;
+	}
+
+	.portcon2{
+		margin-right: 80px;
+		width: 350px;
+		height: 450px;
+	}
+
+	.portcon3{
+		width: 350px;
+		height: 450px;
+	}
+
+	.portext1{
+		font-size: 32px;
+	}
+
+	.portext2{
+		font-size: 22px;
+	}
+
+	.portimg{
+		width: 350px;
+		height: 350px;
+	}
+
+	.more{
+		padding-top: 20px;
+		padding-bottom: 20px;
+		padding-left: 70px;
+		padding-right: 70px;
+		font-size: 25px;
+	}
+
+	.garis3{
+		width: 70px;
+	}
+
+	.protext{
+		font-size: 32px;
+	}
+
+	.nicetext{
+		margin-right: 50px;
+	}
+
+	.niceimg{
+		width: 225px;
+		height: 225px;
+	}
+
+	.nicetext{
+		font-size: 20px;
+		width: 350px;
+	}
+
+	.budi{
+		margin-left: 90px;
+	}
+
+	.budiimg{
+		width: 225px;
+		height: 225px;
+	}
+
+	.buditext{
+		font-size: 20px;
+		width: 350px;
+	}
+
+	.garis4{
+		width: 100px;
+	}
+
+	.context1{
+		font-size: 32px;
+	}
+
+	.context2{
+		font-size: 28px;
+	}
+
+	.context2a{
+		font-size: 28px;
+	}
+
+	.mapimg{
+		width: 650px;
+		height: 450px;
+	}
+
+	.form{
+		margin-left: 80px;
+	}
+
+	.message{
+		margin-top: 40px;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 45px;
+		padding-bottom: 45px;
+		font-size: 22px;
+	}
+
+	.form1{
+		font-size: 20px;
+		width: 350px;
+		height: 40px;
+	}
+
+	.form2{
+		font-size: 20px;
+		width: 350px;
+		height: 40px;
+	}
+
+	.form3{
+		font-size: 20px;
+		width: 350px;
+	}
+
+	.button{
+		font-size: 20px;
+		width: 250px;
+		height: 50px;
+	}
+
+	.info{
+		width: 800px;
+		font-size: 20px;
+	}
+
+	.context3{
+		font-size: 22px;
+	}
+
+	.social ul a li{
+		font-size: 22px;
+	}
+
+	.facebook{
+		margin-top: 20px;
+		width: 80px;
+		height: 80px;
+	}
+
+	.twitter{
+		width: 80px;
+		height: 80px;
+	}
+
+	.instagram{
+		width: 80px;
+		height: 80px;
+	}
+
+	.youtube{
+		width: 80px;
+		height: 80px;
+	}
+
+	.copy{
+		font-size: 22px;
+	}
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+/* LAPTOP */
+
+	.logo{
+		width: 115px;
+		height: 115px;
+	}
+
+	.logo2{
+		display: none;
+	}
+
+	.mhome{
+		margin-left: 150px;
+	}
+
+	.logotext{
+		font-size: 28px;
+	}
+
+	.sercon1{
+		height: 350px;
+		width: 250px;
+	}
+
+	.sercon2{
+		height: 350px;
+		width: 250px;
+	}
+
+	.sercon3{
+		height: 350px;
+		width: 250px;
+	}
+
+	.serimg{
+		width: 250px;
+		height: 250px;
+	}
+
+	.portcon1{
+		height: 350px;
+		width: 250px;
+	}
+
+	.portcon2{
+		height: 350px;
+		width: 250px;
+	}
+
+	.portcon3{
+		height: 350px;
+		width: 250px;
+	}
+
+	.portimg{
+		width: 250px;
+		height: 250px;
+	}
+
+	.more{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 45px;
+		padding-right: 45px;
+	}
+
+	.niceimg{
+		width: 160px;
+		height: 160px;
+	}
+
+	.nicetext{
+		margin-left: 10px;
+		margin-right: 10px;
+		font-size: 17px;
+		width: 270px;
+	}
+
+	.budi{
+		margin-left: 50px;
+	}
+
+	.budiimg{
+		width: 160px;
+		height: 160px;
+	}
+
+	.buditext{
+		margin-left: 10px;
+		margin-right: 10px;
+		font-size: 17px;
+		width: 270px;
+	}
+
+	.context2{
+		font-size: 23px;
+	}
+
+	.mapimg{
+		width: 500px;
+		height: 400px;
+		margin-top: 20px;
+	}
+
+	.form{
+		margin-left: 60px;
+	}
+
+	.message{
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 50px;
+		padding-bottom: 20px;
+		font-size: 18px;
+	}
+
+	.form1{
+		font-size: 17px;
+		width: 300px;
+		height: 30px;
+	}
+
+	.form2{
+		font-size: 17px;
+		width: 300px;
+		height: 30px;
+	}
+
+	.form3{
+		font-size: 17px;
+		width: 300px;
+		height: 120px;
+	}
+
+	.button{
+		font-size: 18px;
+		width: 200px;
+		height: 40px;
+	}
+
+	.info{
+		width: 575px;
+		font-size: 17px;
+	}
+
+	.context3{
+		font-size: 18px;
+	}
+
+	.facebook{
+		width: 65px;
+		height: 65px;
+	}
+
+	.twitter{
+		width: 65px;
+		height: 65px;
+	}
+
+	.instagram{
+		width: 65px;
+		height: 65px;
+	}
+
+	.youtube{
+		width: 65px;
+		height: 65px;
+	}
+
+}
+
+@media only screen and (min-width: 426px) and (max-width: 768px){
+/* TABLET */
+
+	.logo{
+		display: none;
+	}
+
+	.logo2{
+		display: block;
+		width: 500px;
+		height: 100px;
+		margin-left: 140px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.menu ul a:not(.logotext){
+		font-size: 18px;
+	}
+
+	.mhome{
+		margin-left: 170px;
+	}
+
+	.logotext{
+		display: none;
+	}
+
+	.garis1{
+		width: 90px;
+	}
+
+	.sercon1{
+		margin-right: 30px;
+		height: 300px;
+		width: 200px;
+	}
+
+	.sercon2{
+		margin-right: 30px;
+		height: 300px;
+		width: 200px;
+	}
+
+	.sercon3{
+		height: 300px;
+		width: 200px;
+	}
+
+	.sertext1{
+		font-size: 28px;
+	}
+
+	.sertext2{
+		font-size: 18px;
+	}
+
+	.serimg{
+		width: 200px;
+		height: 200px;
+	}
+
+	.garis2{
+		width: 105px;
+	}
+
+	.portcon1{
+		margin-right: 30px;
+		height: 300px;
+		width: 200px;
+	}
+
+	.portcon2{
+		margin-right: 30px;
+		height: 300px;
+		width: 200px;
+	}
+
+	.portcon3{
+		height: 300px;
+		width: 200px;
+	}
+
+	.portext1{
+		font-size: 28px;
+	}
+
+	.portext2{
+		font-size: 18px;
+	}
+
+	.portimg{
+		width: 200px;
+		height: 200px;
+	}
+
+	.more{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 45px;
+		padding-right: 45px;
+		font-size: 18px;
+	}
+
+	.garis3{
+		width: 55px;
+	}
+
+	.protext{
+		font-size: 28px;
+	}
+
+	.niceimg{
+		width: 125px;
+		height: 125px;
+	}
+
+	.nicetext{
+		margin-left: 5px;
+		margin-right: 5px;
+		font-size: 16px;
+		width: 200px;
+		height: 125px;
+		overflow: scroll;
+	}
+
+	.budi{
+		margin-left: 10px;
+	}
+
+	.budiimg{
+		width: 125px;
+		height: 125px;
+	}
+
+	.buditext{
+		margin-left: 5px;
+		font-size: 16px;
+		width: 200px;
+		height: 125px;
+		overflow: scroll;
+	}
+
+	.garis4{
+		width: 80px;
+	}
+
+	.context1{
+		font-size: 28px;
+	}
+
+	.context2{
+		font-size: 22px;
+	}
+
+	.context2a{
+		font-size: 22px;
+	}
+
+	.mapimg{
+		width: 300px;
+		height: 350px;
+	}
+
+	.form{
+		margin-left: 40px;
+	}
+
+	.message{
+		padding-left: 25px;
+		padding-right: 25px;
+		padding-top: 35px;
+		padding-bottom: 35px;
+		font-size: 17px;
+	}
+
+	.form1{
+		font-size: 17px;
+		width: 280px;
+		height: 28px;
+	}
+
+	.form2{
+		font-size: 17px;
+		width: 280px;
+		height: 28px;
+	}
+
+	.form3{
+		font-size: 17px;
+		width: 280px;
+		height: 80px;
+	}
+
+	.button{
+		font-size: 17px;
+		width: 200px;
+		height: 40px;
+	}
+
+	.info{
+		width: 350px;
+		font-size: 16px;
+	}
+
+	.context3{
+		font-size: 18px;
+	}
+
+	.social ul a li{
+		margin-right: 20px;
+		font-size: 18px;
+	}
+
+	.facebook{
+		width: 55px;
+		height: 55px;
+	}
+
+	.twitter{
+		width: 55px;
+		height: 55px;
+	}
+
+	.instagram{
+		width: 55px;
+		height: 55px;
+	}
+
+	.youtube{
+		width: 55px;
+		height: 55px;
+	}
+
+	.copy{
+		font-size: 18px;
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+
+}
+
+@media only screen and (min-width: 376px) and (max-width: 425px){
+/* MOBILE L */
+
+	.logo{
+		display: block;
+		margin-left: 40px;
+	}
+
+	.logo2{
+		display: none;
+	}
+
+	.menu{
+		display: none;
+	}
+
+	.hamburger{
+		display: block;
+	}
+
+	.button-hamburger{
+		margin-right: 30px;
+	}
+
+	.logotext2{
+		display: block;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		margin-right: 70px;
+		font-size: 25px;
+		text-decoration: none;
+		color: #42a5f5;
+		float: left;
+	}
+
+	.services{
+		padding-left: 30px;
+		padding-right: 0;
+	}
+
+	.sertext1{
+		padding-right: 50px;
+		font-size: 25px;
+	}
+
+	.sertext2{
+		font-size: 22px;
+	}
+
+	.garis1{
+		margin-right: 50px;
+	}
+
+	.sercon1{
+		height: 400px;
+		width: 300px;
+		margin-bottom: 50px;
+	}
+
+	.serimg{
+		width: 300px;
+		height: 300px;
+	}
+
+	.sercon2{
+		height: 400px;
+		width: 300px;
+		margin-bottom: 50px;
+	}
+
+	.sercon3{
+		height: 400px;
+		width: 300px;
+		margin-bottom: 50px;
+		margin-right: 50px;
+	}
+
+	.portfolio{
+		padding-left: 30px;
+		padding-right: 0;
+	}
+
+	.garis2{
+		margin-right: 40px;
+	}
+
+	.portext1{
+		font-size: 25px;
+		padding-right: 50px;
+	}
+
+	.garis2{
+		margin-right: 50px;
+	}
+
+	.portext2{
+		font-size: 22px;
+	}
+
+	.portimg{
+		width: 300px;
+		height: 300px;
+	}
+
+	.portcon1{
+		margin-top: 50px;
+		height: 400px;
+		width: 300px;
+		margin-bottom: 50px;
+	}
+
+	.portcon2{
+		height: 400px;
+		width: 300px;
+		margin-bottom: 50px;
+	}
+
+	.portcon3{
+		height: 400px;
+		width: 300px;
+		margin-bottom: 10px;
+		margin-right: 50px;
+	}
+
+	.more{
+		margin-right: 50px;
+	}
+
+	.profil{
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.protext{
+		font-size: 25px;
+	}
+
+	.garis3{
+		margin-right: 0;
+	}
+
+	.niceimg{
+		margin-top: 50px;
+		width: 175px;
+		height: 175px;
+	}
+
+	.nicetext{
+		margin-left: 30px;
+		margin-top: 20px;
+		font-size: 17px;
+	}
+
+	.budi{
+		margin-top: 50px;
+		margin-left: 0;
+	}
+
+	.budiimg{
+		width: 175px;
+		height: 175px;
+	}
+
+	.buditext{
+		font-size: 17px;
+		margin-top: 20px;
+	}
+
+	
+
+}
+
+@media only screen and (min-width: 321px) and (max-width: 375px){
+/* MOBILE M */
+
+
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 320px){
+/* MOBILE S */
+
+
+
+}
